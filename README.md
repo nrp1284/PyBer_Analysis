@@ -34,9 +34,11 @@ We can clearly see that there are some points needed to be considered in decidin
 
 ## Following figures describes all analyis that can help making best decesions fo PyBer. 
 
-![Average fare per Ride] = (analysis/averagefare_perride.png)
+![Averag_fare_per_Ride] = (analysis/averagefare_perride.png)
 
-![Fares by Week] = (analysis/summaryDataFramemultipleline chart.png)
+![Pivot_table_FromDataFrame] = (analysis/Pivot_table_FromDataFrame.png)
 
-![ Total_fare_by_City_type] = (Resources/PyBer_fare_summary.png)
+![Fares_by_Week] = (analysis/summaryDataFramemultipleline chart.png)
+
+![Total_fare_by_City_type] = (Analysis/PyBer_fare_summary.png)
  
