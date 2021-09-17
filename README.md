@@ -34,7 +34,7 @@ We can clearly see that there are some points needed to be considered in decidin
 
 ## Following figures describes all analyis that can help making best decesions fo PyBer. 
 
-![Average fare per Ride] = (analysis/averagefare_perride.png)
+![Average fare per Ride] = (averagefare_perride.png)
 
 ![Pivot_table_FromDataFrame] = (analysis/Pivot_table_FromDataFrame.png)
 
