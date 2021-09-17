@@ -41,7 +41,7 @@ We can clearly see that there are some points needed to be considered in decidin
 ![Pivot_table_FromDataFrame] = (analysis/Pivot_table_FromDataFrame.png)
 
 
-![Fares_by_Week] = (analysis/summaryDataFramemultipleline chart.png)
+![Fares_by_Week] = (analysis/summaryDataFramemultipleline_chart.png)
 
 ![Total_fare_by_City_type] = (Analysis/PyBer_fare_summary.png)
  
