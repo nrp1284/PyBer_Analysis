@@ -32,7 +32,7 @@ a) Total Fare and Average fare by City types:
  
 We can clearly see that there are some points needed to be considered in deciding marketing efforts for rural cities that helps over all ride counts and ROI
 
-## Following figures describes all analyis that can help making best decesions fo PyBer. 
+## Following figures describes all analyis that can help making best decisions fo PyBer. 
 
 
 ![Average_fare_per_Ride](averagefare_perride.png)
