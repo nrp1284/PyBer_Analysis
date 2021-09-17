@@ -22,7 +22,7 @@ The provides Summary DataFrame of the ride-sharing data by city type helped crea
 
 1. Summary of Differences in ride-sharing data among the different city types.
 
-a) Total Fare and Average fare by City types:
+ *  Total Fare and Average fare by City types:
 
  1. Rural: Total fare  is $4327.93 and Average fare is $34.62
  
@@ -35,9 +35,10 @@ a) Total Fare and Average fare by City types:
  
 We can clearly see that there are some points needed to be considered in deciding marketing efforts for rural cities that helps over all ride counts and ROI
 
-## Following figures describes all analyis that can help making best decesions fo PyBer. 
+## Following figures describes all analyis that can help making best decisions fo PyBer. 
 
 
+<<<<<<< HEAD
 ![Pivot_table_FromDataFrame](analysis/Pivot_table_FromDataFrame.png)
 
 
@@ -46,6 +47,20 @@ We can clearly see that there are some points needed to be considered in decidin
 
 
 ![Total_fare_by_City_type](Analysis/PyBer_fare_summary.png)
+=======
+![Average_fare_per_Ride](averagefare_perride.png)
+
+
+![Pivot_table_FromDataFrame](analysis/Pivot_table_FromDataFrame.png)
+
+
+![Fares_by_Week](analysis/summaryDataFramemultipleline_chart.png)
+
+![Total_fare_by_City_type](Analysis/PyBer_fare_summary.png)
+
+
+ 
+>>>>>>> 7d4d04ca79bd466b77397bbae4d9c863b4c98687
 
 
  
