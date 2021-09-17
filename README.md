@@ -30,26 +30,23 @@ a) Total Fare and Average fare by City types:
  
  3. Urban: Total fare  is $39854.38 and Average fare is $24.53
  
+ ![Averag_fare_per_Ride](analysis/averagefare_perride.png)
+ 
+ 
 We can clearly see that there are some points needed to be considered in deciding marketing efforts for rural cities that helps over all ride counts and ROI
 
 ## Following figures describes all analyis that can help making best decesions fo PyBer. 
 
-<<<<<<< HEAD
-![Averag_fare_per_Ride] = (analysis/averagefare_perride.png)
-=======
-![Average fare per Ride] = (averagefare_perride.png)
 
-![Pivot_table_FromDataFrame] = (analysis/Pivot_table_FromDataFrame.png)
->>>>>>> 2a36ac32ae72966f62a13581dd9bfe8c2356e701
+![Pivot_table_FromDataFrame](analysis/Pivot_table_FromDataFrame.png)
 
-![Pivot_table_FromDataFrame] = (analysis/Pivot_table_FromDataFrame.png)
 
-<<<<<<< HEAD
-![Fares_by_Week] = (analysis/summaryDataFramemultipleline chart.png)
 
-![Total_fare_by_City_type] = (Analysis/PyBer_fare_summary.png)
+![Fares_by_Week](analysis/summaryDataFramemultipleline_chart.png)
+
+
+![Total_fare_by_City_type](Analysis/PyBer_fare_summary.png)
+
+
  
-=======
-![ Total_fare_by_City_type] = (Resources/PyBer_fare_summary.png)
- 
->>>>>>> 2a36ac32ae72966f62a13581dd9bfe8c2356e701
+
