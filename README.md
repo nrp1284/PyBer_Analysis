@@ -4,7 +4,7 @@ Project Sponser: PyBer
 
 Projecct manager: Nayan patel
 
-Project Scope: - Finding Weekly Fares by eacch city and hehp create report thatstakeholders making deesion on this  findings. 
+Project Scope: - Finding weekly fares by each city and hehp create report that stakeholders making deesion on this  findings. 
 
 ## Deliverables:
 
