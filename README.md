@@ -43,7 +43,7 @@ We can clearly see that there are some points needed to be considered in decidin
 
 
 
-![Total_fare_by_City_type](Analysis/PyBer_fare_summary.png)
+![Total_fare_by_City_type](analysis/PyBer_fare_summary.png)
 
 
 
