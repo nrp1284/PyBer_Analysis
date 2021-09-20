@@ -33,8 +33,6 @@ The provides Summary DataFrame of the ride-sharing data by city type helped crea
  ![Averag_fare_per_Ride](analysis/averagefare_perride.png)
  
  
-We can clearly see that there are some points needed to be considered in deciding marketing efforts for rural cities that helps over all ride counts and ROI
-
 ## Following figures describes all analyis that can help making best decisions fo PyBer. 
 
 
@@ -48,6 +46,16 @@ We can clearly see that there are some points needed to be considered in decidin
 
 
 ![Fares_by_Week](analysis/summaryDataFramemultipleline_chart.png)
+
+Recommendations:
+We can clearly see that there are some points needed to be considered in deciding marketing efforts for rural cities that helps over all ride counts and ROI
+following can help
+1. Improve marketing efforts
+2. Improve health awareness
+3. Improve app for easy to adopt and follow
+4. Get reviews and work on improvement
+
+
 
 
 
